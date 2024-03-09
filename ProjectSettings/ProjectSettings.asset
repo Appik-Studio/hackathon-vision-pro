@@ -144,10 +144,9 @@ PlayerSettings:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
-  - {fileID: 11400000, guid: 490f30f928a9e48ca9b90e447524da8e, type: 2}
-  - {fileID: 11400000, guid: 29460611f3b0f4ef68cd47471119ff14, type: 2}
-  - {fileID: 11400000, guid: 5b7d34295a4d742e0a248faededed772, type: 2}
-  - {fileID: 3288813594844301037, guid: b0cf344d5210c4013b292659261ccf7f, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -199,7 +198,7 @@ PlayerSettings:
   tvOSSdkVersion: 0
   tvOSRequireExtendedGameController: 0
   tvOSTargetOSVersionString: 12.0
-  VisionOSSdkVersion: 0
+  VisionOSSdkVersion: 1
   VisionOSTargetOSVersionString: 1.0
   uIPrerenderedIcon: 0
   uIRequiresPersistentWiFi: 0
