@@ -42,11 +42,11 @@ EditorBuildSettings:
     path: Assets/Samples/PolySpatial/Scenes/XRIDebug.unity
     guid: 725f8fea08f4ce54383e9a326229d07d
   m_configObjects:
-    UnityEditor.XR.VisionOS.VisionOSSettings: {fileID: 11400000, guid: a96e1259a24a0452b9e557e290d85cd1,
+    UnityEditor.XR.VisionOS.VisionOSSettings: {fileID: 11400000, guid: 542da48432f8041a59894746431c18a6,
       type: 2}
     com.unity.input.settings: {fileID: 11400000, guid: 490f30f928a9e48ca9b90e447524da8e,
       type: 2}
-    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 5a35235eb502c495dbf66b9255178787,
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 5b7d34295a4d742e0a248faededed772,
       type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: da2088cce40cb4605b15b6bdd9cf50cb,
       type: 2}
