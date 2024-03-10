@@ -15,7 +15,7 @@ MonoBehaviour:
   m_AppMode: 1
   m_HandsTrackingUsageDescription: Use handtracking as gameplay
   m_WorldSensingUsageDescription: Use sensing as gameplay
-  m_RuntimeSettings: {fileID: 11400000, guid: 29460611f3b0f4ef68cd47471119ff14, type: 2}
+  m_RuntimeSettings: {fileID: 11400000, guid: aed682804d37a4df39ff21e0c239776b, type: 2}
   m_UpperLimbVisibility: 0
   m_FoveatedRendering: 1
-  m_IL2CPPLargeExeWorkaround: 1
+  m_IL2CPPLargeExeWorkaround: 0
